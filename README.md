@@ -61,16 +61,6 @@ Volatility-Surface-Modelling/
 
 ---
 
-## 💾 Installation
-
-```bash
-git clone https://github.com/your-username/Volatility-Surface-Modelling.git
-cd Volatility-Surface-Modelling
-pip install -r requirements.txt
-```
-
----
-
 ## 🚀 Quickstart
 
 Run the Streamlit application (if interactive GUI is included):
